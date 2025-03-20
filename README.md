@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Rafael Marquardt 
+# 👋 Olá! Eu sou o Rafael Natã Marquardt 
 
 🚀 **Analista de Sistemas e aspirante a Desenvolvedor!**  
 Tenho experiência com implantação de sistemas, suporte técnico e personalizações. Atualmente, estou expandindo meus conhecimentos em desenvolvimento de software, aprendendo APIs com Node.js e me aprofundando no universo da tecnologia.
@@ -13,8 +13,8 @@ Estou estudando de forma autonoma o desenvolvimento, com a base tecnica que ja p
 
 ## 🌱 **Aprendizado Atual**
 - Desenvolvimento de APIs RESTful com Node.js.
-- Banco de dados SQL e modelagem de dados complexos.
-- 
+- Banco de dados relacional SQL, Oracle, Mysql, phpAdmim, Firebird.
+- atualmente me aprofundando em desenvolvimento PHP em MVC.
 
 ## 💼 **Colaborações**
 Busco colaborar em projetos relacionados a:  
